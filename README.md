@@ -1,5 +1,5 @@
 # Play-In-Editor-Scripting-UE
-Python tools I wrote to be able to script Play-In-Editor simulations within Unreal Engine. 
+Python tools to script Play-In-Editor simulations within Unreal Engine. 
 
 Connects to runtime UObjects through socket connections to handle editor events from the Python script and begin/stop a play-in-editor simulation.
 
